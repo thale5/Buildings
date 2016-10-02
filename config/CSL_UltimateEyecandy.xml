@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <version>1.2.2</version>
+  <outputDebug>false</outputDebug>
+  <enableAdvanced>false</enableAdvanced>
+  <loadLastPresetOnStart>false</loadLastPresetOnStart>
+  <lastPreset>winter</lastPreset>
+  <Presets>
+    <Preset name="captures">
+      <ambient_height>25</ambient_height>
+      <ambient_rotation>85</ambient_rotation>
+      <ambient_intensity>5</ambient_intensity>
+      <ambient_ambient>0.74</ambient_ambient>
+      <weather>false</weather>
+      <weather_rainintensity>0</weather_rainintensity>
+      <weather_rainmotionblur>false</weather_rainmotionblur>
+      <weather_fogintensity>0</weather_fogintensity>
+      <weather_snowintensity>0</weather_snowintensity>
+      <color_selectedlut>LUTSunny</color_selectedlut>
+      <color_lut>true</color_lut>
+      <color_tonemapping>true</color_tonemapping>
+      <color_bloom>false</color_bloom>
+    </Preset>
+    <Preset name="winter">
+      <ambient_height>73.625</ambient_height>
+      <ambient_rotation>86.25</ambient_rotation>
+      <ambient_intensity>5.5</ambient_intensity>
+      <ambient_ambient>0.399999976</ambient_ambient>
+      <weather>false</weather>
+      <weather_rainintensity>0</weather_rainintensity>
+      <weather_rainmotionblur>false</weather_rainmotionblur>
+      <weather_fogintensity>0</weather_fogintensity>
+      <weather_snowintensity>0</weather_snowintensity>
+      <color_selectedlut>None</color_selectedlut>
+      <color_lut>true</color_lut>
+      <color_tonemapping>true</color_tonemapping>
+      <color_bloom>false</color_bloom>
+    </Preset>
+  </Presets>
+</Configuration>
