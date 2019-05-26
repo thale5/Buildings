@@ -336,6 +336,10 @@ Monument
   Stadium                                                        Monument L1 16x8 Straight
   Statue of Industry                                             Monument L1 9x9 Straight
   StatueOfWealth                                                 Monument L1 8x8 Straight
+  Winter Market 01                                               Monument L1 11x12 Straight
+  Winter Market 01 Tree Sub                                      Monument L1 1x1 Straight
+  Academic Library 01                                            Monument L1 14x8 Straight
+  Academic Library 01 A                                          Monument L1 14x8 Straight
 
 Industrial Oil
   Oil 3x3 Processing                                             Industrial IndustrialOil L1 3x3 Straight
@@ -354,6 +358,7 @@ Education
   Hadron Collider                                                Education L5 14x11 Straight
   High School                                                    Education L2 6x5 Straight
   University                                                     Education L3 14x8 Straight
+  Library 01                                                     Education L4 10x8 Straight
 
 Electricity
   Electricity Pole                                               Electricity L1 1x1 Straight
@@ -1415,6 +1420,120 @@ Expansion 7 - Summer Only
   Fruit Field Green House 02                                     PlayerIndustry PlayerIndustryFarming L1 8x8 Straight
   Fruit Field Green House 03                                     PlayerIndustry PlayerIndustryFarming L1 8x16 Straight
 
+Expansion 8
+  Trade School Administration 01                                 PlayerEducation PlayerEducationTradeSchool L3 12x12 Straight
+  Trade School Dormitory 01                                      PlayerEducation PlayerEducationTradeSchool L3 10x6 Straight
+  American Football Stadium 01                                   VarsitySports L3 16x8 Straight
+  American Football Stadium 01 Back                              VarsitySports L3 16x8 Straight
+  American Football Stadium 01 Front                             VarsitySports L3 16x8 Straight
+  American Football Stadium 01 L1                                VarsitySports L3 9x9 Straight
+  American Football Stadium 01 L2                                VarsitySports L3 9x9 Straight
+  American Football Stadium 01 R1                                VarsitySports L3 9x9 Straight
+  American Football Stadium 01 R2                                VarsitySports L3 9x9 Straight
+  School of Engineering 01                                       PlayerEducation PlayerEducationTradeSchool L3 12x13 Straight
+  School of Engineering 01 A                                     PlayerEducation PlayerEducationTradeSchool L3 8x13 Straight
+  School of Engineering 01 B                                     PlayerEducation PlayerEducationTradeSchool L3 8x13 Straight
+  Trade School Academic Statue 01                                PlayerEducation PlayerEducationTradeSchool L3 5x5 Straight
+  Trade School Academic Statue 02                                PlayerEducation PlayerEducationTradeSchool L3 5x5 Straight
+  Trade School Auditorium 01                                     PlayerEducation PlayerEducationTradeSchool L3 8x10 Straight
+  Trade School Book Club 01                                      PlayerEducation PlayerEducationTradeSchool L3 5x5 Straight
+  Trade School Bookstore 01                                      PlayerEducation PlayerEducationTradeSchool L3 10x6 Straight
+  Trade School Cafeteria 01                                      PlayerEducation PlayerEducationTradeSchool L3 8x5 Straight
+  Trade School Fountain 01                                       PlayerEducation PlayerEducationTradeSchool L3 6x6 Straight
+  Trade School Groundskeeping 01                                 PlayerEducation PlayerEducationTradeSchool L3 4x3 Straight
+  Trade School Gymnasium 01                                      PlayerEducation PlayerEducationTradeSchool L3 8x10 Straight
+  Trade School IT Club 01                                        PlayerEducation PlayerEducationTradeSchool L3 5x5 Straight
+  Trade School Laboratories 01                                   PlayerEducation PlayerEducationTradeSchool L3 12x10 Straight
+  Trade School Library 01                                        PlayerEducation PlayerEducationTradeSchool L3 10x8 Straight
+  Trade School Media Lab 01                                      PlayerEducation PlayerEducationTradeSchool L3 10x8 Straight
+  Trade School Study Hall 01                                     PlayerEducation PlayerEducationTradeSchool L3 8x12 Straight
+  Liberal Arts Academic Statue 01                                PlayerEducation PlayerEducationLiberalArts L3 5x5 Straight
+  Liberal Arts Academic Statue 02                                PlayerEducation PlayerEducationLiberalArts L3 5x5 Straight
+  Liberal Arts Art Club 01                                       PlayerEducation PlayerEducationLiberalArts L3 5x5 Straight
+  Liberal Arts Auditorium 01                                     PlayerEducation PlayerEducationLiberalArts L3 8x10 Straight
+  Liberal Arts Bookstore 01                                      PlayerEducation PlayerEducationLiberalArts L3 10x6 Straight
+  Liberal Arts Cafeteria 01                                      PlayerEducation PlayerEducationLiberalArts L3 8x5 Straight
+  Liberal Arts Dance Club 01                                     PlayerEducation PlayerEducationLiberalArts L3 5x5 Straight
+  Liberal Arts Dormitory 01                                      PlayerEducation PlayerEducationLiberalArts L3 10x6 Straight
+  Liberal Arts Drama Club 01                                     PlayerEducation PlayerEducationLiberalArts L3 5x5 Straight
+  Liberal Arts Fountain 01                                       PlayerEducation PlayerEducationLiberalArts L3 6x6 Straight
+  Liberal Arts Groundskeeping 01                                 PlayerEducation PlayerEducationLiberalArts L3 4x3 Straight
+  Liberal Arts Gymnasium 01                                      PlayerEducation PlayerEducationLiberalArts L3 8x10 Straight
+  Liberal Arts Laboratories 01                                   PlayerEducation PlayerEducationLiberalArts L3 12x10 Straight
+  Liberal Arts Library 01                                        PlayerEducation PlayerEducationLiberalArts L3 10x8 Straight
+  Liberal Arts Media Lab 01                                      PlayerEducation PlayerEducationLiberalArts L3 10x8 Straight
+  Liberal Arts Study Hall 01                                     PlayerEducation PlayerEducationLiberalArts L3 8x13 Straight
+  University Academic Statue 01                                  PlayerEducation PlayerEducationUniversity L3 5x5 Straight
+  University Academic Statue 02                                  PlayerEducation PlayerEducationUniversity L3 5x5 Straight
+  University Auditorium 01                                       PlayerEducation PlayerEducationUniversity L3 8x10 Straight
+  University Bookstore 01                                        PlayerEducation PlayerEducationUniversity L3 10x6 Straight
+  University Cafeteria 01                                        PlayerEducation PlayerEducationUniversity L3 8x5 Straight
+  University Chess Club 01                                       PlayerEducation PlayerEducationUniversity L3 5x5 Straight
+  University Dormitory 01                                        PlayerEducation PlayerEducationUniversity L3 10x6 Straight
+  University Fountain 01                                         PlayerEducation PlayerEducationUniversity L3 6x6 Straight
+  University Groundskeeping 01                                   PlayerEducation PlayerEducationUniversity L3 4x3 Straight
+  University Gymnasium 01                                        PlayerEducation PlayerEducationUniversity L3 8x10 Straight
+  University Laboratories 01                                     PlayerEducation PlayerEducationUniversity L3 12x10 Straight
+  University Library 01                                          PlayerEducation PlayerEducationUniversity L3 10x8 Straight
+  University Math Club 01                                        PlayerEducation PlayerEducationUniversity L3 5x5 Straight
+  University Media Lab 01                                        PlayerEducation PlayerEducationUniversity L3 10x8 Straight
+  University Soccer Club 01                                      PlayerEducation PlayerEducationUniversity L3 5x5 Straight
+  University Study Hall 01                                       PlayerEducation PlayerEducationUniversity L3 8x12 Straight
+  School of Economics 01                                         PlayerEducation PlayerEducationLiberalArts L3 15x9 Straight
+  School of Economics 01 A                                       PlayerEducation PlayerEducationLiberalArts L3 15x9 Straight
+  School of Education 01                                         PlayerEducation PlayerEducationLiberalArts L3 12x12 Straight
+  School of Education 01 A                                       PlayerEducation PlayerEducationLiberalArts L3 6x12 Straight
+  School of Education 01 B                                       PlayerEducation PlayerEducationLiberalArts L3 6x12 Straight
+  School of Environmental Studies 01                             PlayerEducation PlayerEducationLiberalArts L3 15x9 Straight
+  School of Environmental Studies 01 A                           PlayerEducation PlayerEducationLiberalArts L3 15x9 Straight
+  Police Academy 01                                              PlayerEducation PlayerEducationTradeSchool L3 12x12 Straight
+  Police Academy 01 A                                            PlayerEducation PlayerEducationTradeSchool L3 8x12 Straight
+  Police Academy 01 B                                            PlayerEducation PlayerEducationTradeSchool L3 8x12 Straight
+  School of Tourism And Travel 01                                PlayerEducation PlayerEducationTradeSchool L3 14x8 Straight
+  School of Tourism And Travel 01 A                              PlayerEducation PlayerEducationTradeSchool L3 14x8 Straight
+  School of Law 01                                               PlayerEducation PlayerEducationUniversity L3 12x13 Straight
+  School of Law 01 A                                             PlayerEducation PlayerEducationUniversity L3 6x13 Straight
+  School of Law 01 B                                             PlayerEducation PlayerEducationUniversity L3 6x13 Straight
+  School of Medicine 01                                          PlayerEducation PlayerEducationUniversity L3 12x12 Straight
+  School of Medicine 01 A                                        PlayerEducation PlayerEducationUniversity L3 8x12 Straight
+  School of Medicine 01 B                                        PlayerEducation PlayerEducationUniversity L3 8x12 Straight
+  School of Science 01                                           PlayerEducation PlayerEducationUniversity L3 16x8 Straight
+  School of Science 01 A                                         PlayerEducation PlayerEducationUniversity L3 16x8 Straight
+  School of Science 01 B                                         PlayerEducation PlayerEducationUniversity L3 16x8 Straight
+  University Administration 01                                   PlayerEducation PlayerEducationUniversity L3 12x12 Straight
+  Liberal Arts Administration 01                                 PlayerEducation PlayerEducationLiberalArts L3 12x12 Straight
+  Groundskeeper Truck 01                                         PlayerEducation PlayerEducationTradeSchool L3 1x1 Straight
+  Baseball Park 01 Front                                         VarsitySports L3 16x8 Straight
+  Baseball Park 01 L                                             VarsitySports L3 10x12 Straight
+  Baseball Park 01 Main                                          VarsitySports L3 16x8 Straight
+  Baseball Park 01 R                                             VarsitySports L3 10x12 Straight
+  Liberal Arts Museum 01                                         Monument L0 12x10 Straight
+  Trade School Museum 01                                         Monument L0 12x10 Straight
+  University Museum 01                                           Monument L0 12x10 Straight
+  Liberal Arts Outdoor Study 01                                  PlayerEducation PlayerEducationLiberalArts L3 12x12 Straight
+  Trade School Outdoor Study 01                                  PlayerEducation PlayerEducationTradeSchool L3 12x12 Straight
+  University Outdoor Study 01                                    PlayerEducation PlayerEducationUniversity L3 12x12 Straight
+  Basketball Arena 01                                            VarsitySports L3 16x8 Straight
+  Basketball Arena 01 L                                          VarsitySports L3 8x16 Straight
+  Basketball Arena 01 R                                          VarsitySports L3 8x16 Straight
+  Aquatics Center 01                                             VarsitySports L3 16x8 Straight
+  Aquatics Center 01 L                                           VarsitySports L3 8x12 Straight
+  Aquatics Center 01 R                                           VarsitySports L3 8x12 Straight
+  Track And Field Stadium 01                                     VarsitySports L3 16x8 Straight
+  Track And Field Stadium 01 L Back                              VarsitySports L3 14x8 Straight
+  Track And Field Stadium 01 R Back                              VarsitySports L3 14x8 Straight
+  Track And Field Stadium 01 R Front                             VarsitySports L3 14x10 Straight
+  American Football Stadium 01 Green                             VarsitySports L3 6x5 Straight
+  Track And Field Stadium 01 L Front                             VarsitySports L3 14x10 Straight
+  Baseball Park 01 Field                                         VarsitySports L3 13x12 Straight
+  american football stadium 01 field                             VarsitySports L3 6x10 Straight
+  Liberal Arts Commencement Office 01                            PlayerEducation PlayerEducationLiberalArts L3 9x12 Straight
+  Trade School Commencement Office 01                            PlayerEducation PlayerEducationTradeSchool L3 9x12 Straight
+  University Commencement Office 01                              PlayerEducation PlayerEducationUniversity L3 9x12 Straight
+  Trade School Beach Volleyball Club 01                          PlayerEducation PlayerEducationTradeSchool L3 5x5 Straight
+
+Expansion 8 - Summer Only
+
 Football
   Football Stadium Front                                         Monument L1 16x8 Straight
   Football Stadium Back                                          Monument L1 16x4 Straight
@@ -1590,6 +1709,78 @@ Modder Pack 3
   EU LD 17B                                                      Residential ResidentialLow L5 4x4 Straight
   EU LD 17C                                                      Residential ResidentialLow L4 4x4 Straight
   EU LD 17D                                                      Residential ResidentialLow L3 4x4 Straight
+
+Modder Pack 4
+  ATM 01 1x1                                                     Commercial CommercialLow L1 1x1 Straight
+  ATM 01 2x2 L2                                                  Commercial CommercialLow L1 2x1 Straight
+  Backwater Burger                                               Commercial CommercialLow L1 3x3 Straight
+  Bookstore B                                                    Commercial CommercialLow L1 4x2 Straight
+  Brick Commercial 2x2                                           Commercial CommercialLow L1 2x3 Straight
+  Brick Commercial 2x3                                           Commercial CommercialLow L2 2x3 Straight
+  Carwash 1                                                      Commercial CommercialLow L1 1x1 Straight
+  Carwash 2                                                      Commercial CommercialLow L1 2x2 Straight
+  Catfish Cafe                                                   Commercial CommercialLow L2 2x3 Straight
+  Central Wine                                                   Commercial CommercialLow L1 2x2 Straight
+  CramBurger                                                     Commercial CommercialLow L1 1x3 Straight
+  Deli                                                           Commercial CommercialLow L1 2x3 Straight
+  Delta Queen                                                    Commercial CommercialLow L1 2x3 Straight
+  Fry Guys 1x3                                                   Commercial CommercialLow L1 1x3 Straight
+  Fry Guys 3x2                                                   Commercial CommercialLow L1 3x2 Straight
+  Hamberders 2                                                   Commercial CommercialLow L2 3x3 Straight
+  Hamberders 3                                                   Commercial CommercialLow L1 3x3 Straight
+  Hamberders 4                                                   Commercial CommercialLow L1 3x3 Straight
+  Hamberders LV2                                                 Commercial CommercialLow L1 3x3 Straight
+  Icebox 1x1                                                     Commercial CommercialLow L1 1x1 Straight
+  Laundry                                                        Commercial CommercialLow L1 4x3 Straight
+  Newks1                                                         Commercial CommercialLow L2 2x3 Straight
+  Newks2                                                         Commercial CommercialLow L2 3x4 Straight
+  Newks3                                                         Commercial CommercialLow L2 4x3 Straight
+  Orchard Italia                                                 Commercial CommercialLow L2 4x4 Straight
+  RCI 1 brick                                                    Commercial CommercialLow L2 3x2 Straight
+  RCI 3x2                                                        Commercial CommercialLow L2 3x2 Straight
+  RCI 3x2 Corner                                                 Commercial CommercialLow L2 3x3 CornerLeft
+  RCI2 3x3                                                       Commercial CommercialLow L2 3x3 CornerLeft
+  RCI2 Level1                                                    Commercial CommercialLow L1 3x3 CornerLeft
+  RCI3                                                           Commercial CommercialLow L2 1x2 Straight
+  Shake It                                                       Commercial CommercialLow L2 4x4 Straight
+  Skybar Corner                                                  Commercial CommercialLow L2 3x3 CornerLeft
+  Zombie Lake Tap House                                          Commercial CommercialLow L2 3x3 CornerLeft
+  College 01                                                     Residential ResidentialLow L1 3x3 Straight
+  College 02                                                     Residential ResidentialLow L2 3x3 Straight
+  College 04                                                     Residential ResidentialLow L4 2x3 Straight
+  College 11                                                     Residential ResidentialLow L1 2x3 Straight
+  College Park 12                                                Residential ResidentialLow L2 2x3 Straight
+  College Park 13                                                Residential ResidentialLow L3 2x3 Straight
+  College Park 14                                                Residential ResidentialLow L4 2x4 Straight
+  College Park 15                                                Residential ResidentialLow L4 2x3 Straight
+  College Park 20                                                Residential ResidentialLow L1 2x2 Straight
+  College Park 20-A                                              Residential ResidentialLow L1 3x3 Straight
+  College Park 20-B                                              Residential ResidentialLow L1 2x2 Straight
+  College Park 22                                                Residential ResidentialLow L3 2x2 Straight
+  College Park 23                                                Residential ResidentialLow L2 2x3 Straight
+  College Park 30                                                Residential ResidentialLow L1 2x3 Straight
+  College Park 31                                                Residential ResidentialLow L1 2x4 Straight
+  College Park 32                                                Residential ResidentialLow L2 2x2 Straight
+  College Park 33                                                Residential ResidentialLow L3 2x2 Straight
+  College Park 34                                                Residential ResidentialLow L3 2x2 Straight
+  College Park 41                                                Residential ResidentialLow L1 2x3 Straight
+  College Park 43                                                Residential ResidentialLow L3 2x3 Straight
+  College Park 50                                                Residential ResidentialLow L1 2x2 Straight
+  College Park 53                                                Residential ResidentialLow L1 2x2 Straight
+  College Park 60                                                Residential ResidentialLow L3 2x3 Straight
+  College Park 61                                                Residential ResidentialLow L4 2x3 Straight
+  College Park 63                                                Residential ResidentialLow L3 2x3 Straight
+  College Park U02                                               Residential ResidentialLow L2 3x3 Straight
+  College Park U04                                               Residential ResidentialLow L4 3x3 Straight
+  College Park U05                                               Residential ResidentialLow L2 3x3 Straight
+  College Park U24                                               Residential ResidentialLow L4 2x3 Straight
+  College Park U25                                               Residential ResidentialLow L4 3x3 Straight
+  College Park U30                                               Residential ResidentialLow L4 2x2 Straight
+  College Park U31                                               Residential ResidentialLow L4 2x3 Straight
+  College Park U32                                               Residential ResidentialLow L4 3x2 Straight
+  College Park U33                                               Residential ResidentialLow L4 3x3 Straight
+  College Park U40                                               Residential ResidentialLow L4 3x3 Straight
+  College Park U41                                               Residential ResidentialLow L4 3x3 Straight
 
 China Pack
   Panda Sanctuary                                                Monument L1 12x12 Straight
