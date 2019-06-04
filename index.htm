@@ -1,22 +1,9 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Cities Skylines</title><style>
-* {font-family:sans-serif;}
-body {background-color:#f8f4e2;}
-.my {display:-webkit-flex;display:flex;}
-.my div {min-width:30%;margin:1px 1px 1px 10px;font-size:100%;}
-h1 {margin-top:55px;border-bottom:2px solid black;}
-h2 {margin-top:40px;color:#000090;}
-code {display:block;font-family:Consolas, Menlo, Courier, monospace;line-height:125%;padding:10px 10px;background-color:#e2e0de;border-radius:7px;}
-pre {white-space:pre;margin:6px 0px;}
-img {display:block;margin:6px 0px;border-radius:7px;box-shadow:8px 6px 10px #5a5a5a;}
-a {margin:10px 1px 1px 20px;}
-a:link {color:#000090;font-family:Consolas, Menlo, Courier, monospace;text-decoration:inherit;}
-a:visited {color:#000090;font-family:Consolas, Menlo, Courier, monospace;text-decoration:inherit;}
-a:hover {font-weight:bold;}
-</style></head><body>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Cities Skylines</title><link rel="stylesheet" type="text/css" href="s.css"></head><body>
 <noscript><h2 style="color:red">JavaScript is required to display the images.</h2></noscript>
 <h1>Cities Skylines Buildings</h1>
-<div class="my"><div><i>This page shows standard buildings in Cities: Skylines, including DLCs. The buildings are organized by Building Collection.<br><br>In each gray box, the first line is the name of the building.</i></div></div>
-<h2 id="Table_of_Contents">Table of Contents</h2>
+<div class="my"><div><i>This page shows standard buildings in Cities: Skylines, including DLCs. The buildings are organized by Building Collection.<br><br>In each gray box, the first line is the name of the building.<br><br></i></div></div>
+<div class="my"><div><i><b>New:</b> Interactive feature provided by Aubergine18 (Thanks!).<br>You can click on the gray boxes to create contents for skip.txt, for use with Loading Screen Mod. You can also click on the headings (Building Collections).<br>You find the skip list at the bottom of this page.</i></div></div>
+<h3 id="Table_of_Contents">Table of Contents</h3>
 <div><a href="#Residential_Low">Residential Low</a></div>
 <div><a href="#Residential_High">Residential High</a></div>
 <div><a href="#Commercial_Low">Commercial Low</a></div>
@@ -72,6 +59,7 @@ a:hover {font-weight:bold;}
 <div><a href="#Europe_Office">Europe Office</a></div>
 <div><a href="#Europe_Industrial_new">Europe Industrial new</a></div>
 <div><a href="#Europe_Style_Services">Europe Style Services</a></div>
+<div><a href="#Skip_List">Skip List</a></div>
 <h2 id="Residential_Low">Residential Low</h2>
 <div class="my"><div><pre><code>L1 1x1 Detached
 Residential ResidentialLow
@@ -5748,7 +5736,9 @@ L1 6x12 Straight</code></pre></div><div><img data-s="jpg/theatre.jpg" style="wid
 <div class="my"><div><pre><code>University_EU
 Education
 L3 13x12 Straight</code></pre></div><div><img data-s="jpg/University_EU.jpg" style="width:728px;height:320px;"></div></div>
-<script>
-var nodes=document.querySelectorAll('img');for (var i=0;i<nodes.length;i++){var img=nodes[i];img.setAttribute('src',img.getAttribute('data-s'));}
-</script>
+<h3 id="Skip_List">Skip List</h3>
+<div id="skips"></div>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="buildings.js"></script>
+<script>$(Ini)</script>
 </body></html>

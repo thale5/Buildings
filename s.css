@@ -1,0 +1,21 @@
+* {font-family:Consolas, Menlo, Courier, monospace;}
+h1, h2, h3, i {font-family:sans-serif;}
+body {background-color:#f8f4e2;}
+.my {display:flex;}
+.my div {min-width:30%;margin:1px 1px 1px 10px;font-size:100%;}
+h1 {margin-top:55px;border-bottom:2px solid black;}
+h2 {margin-top:40px;color:#000090;}
+h3 {margin-top:40px;}
+code {display:block;line-height:125%;padding:10px;background-color:#e2e0de;border-radius:7px;}
+img {display:block;margin:6px 0px;border-radius:7px;box-shadow:8px 6px 10px #5a5a5a;}
+a {margin:10px 1px 1px 20px;}
+a:link {color:#000090;text-decoration:inherit;}
+a:visited {color:#a00090;text-decoration:inherit;}
+a:hover {font-weight:bold;}
+.skipped code {background-color:#e2a466;}
+.skipped img {opacity:0.5;}
+#skips {padding:12px;width:55%;background-color:#f5f7fa;}
+p {margin:3px 0px;}
+p:hover {color:#e00070;}
+.ex {background-color:#f5f090;}
+h2, code, p {cursor:pointer;}
